@@ -1,0 +1,10 @@
+#Alacritty config
+
+[font]
+normal = {family = "JetBrainsMono", style = "Regular"}
+
+[terminal]
+shell = "/bin/fish"
+
+[window]
+opacity = 0.9
